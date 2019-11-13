@@ -40,12 +40,9 @@ yarn
 Give a ⭐️ if this project helped you!
 
 ---
-
----
-title: url-loader
-source: https://raw.githubusercontent.com/webpack-contrib/url-loader/master/README.md
-edit: https://github.com/webpack-contrib/url-loader/edit/master/README.md
-repo: https://github.com/webpack-contrib/url-loader
+* source: https://raw.githubusercontent.com/webpack-contrib/url-loader/master/README.md
+* edit: https://github.com/webpack-contrib/url-loader/edit/master/README.md
+* repo: https://github.com/webpack-contrib/url-loader
 ---
 
 
