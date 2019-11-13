@@ -1,0 +1,19 @@
+{
+  "name": "webpack-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "starkwang",
+  "license": "ISC",
+  "devDependencies": {
+    "file-loader": "^2.0.0",
+    "url-loader": "^1.1.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "webpack": "^4.41.2"
+  }
+}
