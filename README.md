@@ -1,4 +1,7 @@
 <h1 align="center">Welcome to webpack-guide 👋</h1>
+
+> 如果这个项目对您有帮助，请给一个️star！
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://shudong.wang" target="_blank">
